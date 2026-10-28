@@ -1,0 +1,39 @@
+{
+  "manifest_version": "1.0",
+  "org": "pyecharts",
+  "repo": "snapshot-phantomjs",
+  "versions": [
+    {
+      "commit": "5fc4d7696923b35cb9f8a62a356e832e1bc171a1",
+      "parsed_at": "2026-10-28T13:24:24.575925+00:00",
+      "filetree": "filetree/5fc4d7696923b35cb9f8a62a356e832e1bc171a1.nq.gz",
+      "blobs": [
+        "blob/c5652ebf9d5cdcf4c603097cf04daf86e0767a2a.nq.gz",
+        "blob/492784e0d56404eee289bf72e303c98d416427e3.nq.gz",
+        "blob/3e0ee51423673045d76cf8604c03cc0c6432c58a.nq.gz",
+        "blob/b70c2782aa78ff135cc4dadbe992727e9a67596b.nq.gz",
+        "blob/e2a89138117ddb81932ebb0323df03699cdc2536.nq.gz",
+        "blob/ccab7bba6238e85917fa7f31488de0c7483402a8.nq.gz",
+        "blob/334b4ba87e262dd8b5b44f600a20e3284144061f.nq.gz",
+        "blob/92b6f2ffe27e0cea6c4b849727192484213feff8.nq.gz",
+        "blob/37e4f24ba0b804bc31236bc896b8bb339c9ef1cd.nq.gz",
+        "blob/d31eeaa644fa18b29af15f226cc02daa5ad59227.nq.gz",
+        "blob/71ba03786857fd8df5308402b9f8b1d469f0e8c5.nq.gz",
+        "blob/f926159474b3f333d62247066377271f55590fc0.nq.gz",
+        "blob/1cc8e402cef4ecab61aa8353171980a709fd9d58.nq.gz",
+        "blob/b80ce952fe6ae18bab95ce286316fb9ee5619599.nq.gz",
+        "blob/b8cdc8a43fd9654086eb52ce8138ada9864ecfbf.nq.gz",
+        "blob/2a9acf13daa95e85642ea255d3e3bd1ef8252804.nq.gz",
+        "blob/402e083dce2a4ee8597209cd6e2126cdac730c2f.nq.gz",
+        "blob/5357dac758dbfbf804cb170616d01a1526e90ea1.nq.gz",
+        "blob/c0bd2f4a9abd1f9e0e0e436dd76167c08eb64d0e.nq.gz",
+        "blob/c7cb404fafa97b03f5e65ef2e10096b29915451e.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
