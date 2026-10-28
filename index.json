@@ -1,0 +1,11 @@
+{
+  "org": "pyecharts",
+  "repo": "snapshot-phantomjs",
+  "versions": [
+    {
+      "commit": "5fc4d7696923b35cb9f8a62a356e832e1bc171a1",
+      "tag": "",
+      "parsed_at": "2026-10-28T13:26:30.364447+00:00"
+    }
+  ]
+}
